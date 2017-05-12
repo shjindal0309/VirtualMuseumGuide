@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guide</string>
+
+    <string name="ask_questions">
+        <u>Frequently Asked Questions</u> <!--whitespaces matters here-->
+    </string>
+
+    <string name="recent_searches"><u>Recent Searches</u></string>
+    <string name="category_recent_searches">Recent Searches</string>
+    <string name="category_camera">Camera</string>
+    <string name="category_faqs">FAQs</string>
+</resources>
